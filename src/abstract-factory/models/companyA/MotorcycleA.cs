@@ -1,0 +1,11 @@
+﻿namespace abstract_factory.models.companyA
+{
+    public class MotorcycleA : MotorCycle
+    {
+        public override void Deliver()
+        {
+            Console.Write("Deliver Company A: ");
+            base.Deliver();
+        }
+    }
+}
