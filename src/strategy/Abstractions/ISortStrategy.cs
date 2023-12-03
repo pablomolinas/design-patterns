@@ -1,5 +1,4 @@
-﻿using Models;
-
+﻿
 namespace strategy.Abstractions
 {
     public interface ISortStrategy

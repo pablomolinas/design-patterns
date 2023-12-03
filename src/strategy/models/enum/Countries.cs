@@ -1,4 +1,4 @@
-﻿namespace Models.@enum
+﻿namespace strategy
 {
     public enum Countries
     {

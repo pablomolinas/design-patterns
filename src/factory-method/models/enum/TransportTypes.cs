@@ -1,4 +1,4 @@
-﻿namespace Models
+﻿namespace factory_method.models
 {
     public enum TransportTypes
     {

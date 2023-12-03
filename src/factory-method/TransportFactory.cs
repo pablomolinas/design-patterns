@@ -1,6 +1,4 @@
-﻿using Models;
-using Models.Abstractions;
-using Models.Logistic;
+﻿using factory_method.models;
 
 namespace factory_method
 {

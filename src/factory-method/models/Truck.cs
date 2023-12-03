@@ -1,6 +1,4 @@
-﻿using Models.Abstractions;
-
-namespace Models.Logistic
+﻿namespace factory_method.models
 {
     public class Truck : ITransport
     {

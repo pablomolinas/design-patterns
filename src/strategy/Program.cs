@@ -1,5 +1,4 @@
-﻿using Models;
-using strategy.Abstractions;
+﻿using strategy.Abstractions;
 using strategy.Strategies;
 
 namespace strategy

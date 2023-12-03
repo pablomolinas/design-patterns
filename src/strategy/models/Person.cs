@@ -1,6 +1,5 @@
-﻿using Models.@enum;
-
-namespace Models
+﻿
+namespace strategy
 {
     public class Person
     {

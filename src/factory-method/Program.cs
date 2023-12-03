@@ -1,5 +1,5 @@
 ﻿using factory_method;
-using Models;
+using factory_method.models;
 
 namespace Program
 {
